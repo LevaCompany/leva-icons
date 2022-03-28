@@ -13,3 +13,4 @@ The icons pack create for add all worldwide icons: [icons.levabrands.dev/about](
 * readme_ru.txt
 * readme_en.txt
 * readme_uk.txt
+* readme_zh.txt
