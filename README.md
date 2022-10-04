@@ -1,13 +1,12 @@
 # leva-icons
-The icons pack create for add all worldwide icons: [icons.levabrands.dev/about](https://icons.levabrands.dev/about/)
-## Easy on Leva icons 1.0.1v
+The icons pack create for add all worldwide icons: [icons.levabrands.dev/about](https://levabrands.dev/icons/about/)
+## Easy on Leva Icons 2.0 
 * Added 2 icons
-* Added 3 styles solid, fill, [TwoColors](https://icons.levabrands.dev/styles/twocolors)
-* Added 3 symbols
-* Added new file readme_zh.txt
-* Added NPM
-* Added PRO ZIP pack: [Get ZIP file](https://icons.levabrands.dev/zip#for-pro)
+* Added 2 styles [AllColors](https://levabrands.dev/icons/styles/allcolors), [AnimateColors](https://levabrands.dev/icons/styles/animatecolors)
+* Added 30 symbols
+* Added JavaScript
 ## On ZIP file
+* js
 * css
 * sass
 * less
