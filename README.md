@@ -1,10 +1,8 @@
 # leva-icons
 The icons pack create for add all worldwide icons: [icons.levabrands.dev/about](https://levabrands.dev/icons/about/)
-## Easy on Leva Icons 2.0 
-* Added 100 icons
-* Added 2 styles [AllColors](https://levabrands.dev/icons/styles/allcolors), [AnimateColors](https://levabrands.dev/icons/styles/animatecolors)
-* Added 30 symbols
-* Added JavaScript
+## Added in Leva Icons 2.8 
+* Added 1 style [MegaColor](icons.levabrands.dev/megacolor)
+* Added files readme_ge.txt, readme_be.txt
 ## On ZIP file
 * js
 * css
@@ -14,3 +12,5 @@ The icons pack create for add all worldwide icons: [icons.levabrands.dev/about](
 * readme_en.txt
 * readme_uk.txt
 * readme_zh.txt
+* readme_ge.txt
+* readme_be.txt
