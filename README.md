@@ -18,9 +18,9 @@ The icons pack create for add all worldwide icons: [icons.levabrands.dev/about](
 * feedback.txt
 * support.txt
 ## Tests
-Internet Explorer: 5-11
-Chrome: All versions
-Firefox: All versions
-Opera: All versions
-Safari: All versions
-Other browsers: Good
+* Internet Explorer: 5-11
+* Chrome: All versions
+* Firefox: All versions
+* Opera: All versions
+* Safari: All versions
+* Other browsers: Good
