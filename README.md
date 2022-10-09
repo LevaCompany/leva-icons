@@ -3,7 +3,6 @@ The icons pack create for add all worldwide icons: [icons.levabrands.dev/about](
 ## Added in Leva Icons 3.0
 * Added 1 style [MegaSuperUltra](https://icons.levabrands.dev/megasuperultra)
 * Added files feedback.txt, support.txt
-* Added SVG Support
 ## On ZIP file
 * svg
 * js
@@ -18,3 +17,10 @@ The icons pack create for add all worldwide icons: [icons.levabrands.dev/about](
 * readme_be.txt
 * feedback.txt
 * support.txt
+## Tests
+Internet Explorer: 5-11
+Chrome: All versions
+Firefox: All versions
+Opera: All versions
+Safari: All versions
+Other browsers: Good
