@@ -28,4 +28,4 @@ The icons pack create for add all worldwide icons: [icons.levabrands.dev/about](
 ![build](https://github.com/buttons/github-buttons/workflows/build/badge.svg)
 [![npm](https://img.shields.io/npm/v/github-buttons)](https://www.npmjs.com/leva-icons)
 ## Notes
-_No notes_
+_No notes 😭_
