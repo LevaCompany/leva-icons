@@ -1,9 +1,8 @@
 # leva-icons
 The icons pack create for add all worldwide icons: [icons.levabrands.dev/about](https://levabrands.dev/icons/about/)
-## Added in Leva Icons 2.8 
-* Added 1 style [MegaColor](https://icons.levabrands.dev/megacolor)
-* Added files readme_ge.txt, readme_be.txt
-* Added SVG Support
+## Added in Leva Icons 3.0
+* Added 1 style [MegaSuperUltra](https://icons.levabrands.dev/megasuperultra)
+* Added files feedback.txt, support.txt
 ## On ZIP file
 * svg
 * js
@@ -16,3 +15,17 @@ The icons pack create for add all worldwide icons: [icons.levabrands.dev/about](
 * readme_zh.txt
 * readme_ge.txt
 * readme_be.txt
+* feedback.txt
+* support.txt
+## Tests
+* Internet Explorer: 5-11
+* Chrome: All versions
+* Firefox: All versions
+* Opera: All versions
+* Safari: All versions
+* Other browsers: Good
+## Socials
+![build](https://github.com/buttons/github-buttons/workflows/build/badge.svg)
+[![npm](https://img.shields.io/npm/v/github-buttons)](https://www.npmjs.com/leva-icons)
+## Notes
+_No notes_
