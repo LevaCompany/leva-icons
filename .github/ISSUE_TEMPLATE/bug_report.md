@@ -3,7 +3,7 @@ name: Bug report
 about: Create a report to help us improve
 title: 'Bug: '
 labels: bug, chat, code, help wanted, invalid
-assignees: ''
+assignees: LevaCompany
 
 ---
 
