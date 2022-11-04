@@ -1,8 +1,6 @@
 # leva-icons
 The icons pack create for add all worldwide icons: [icons.levabrands.dev/about](https://levabrands.dev/icons/about/)
-## Added in Leva Icons 3.0
-* Added 1 style [MegaSuperUltra](https://icons.levabrands.dev/megasuperultra)
-* Added files feedback.txt, support.txt
+## Added in Leva Icons 4.0
 ## On ZIP file
 * svg
 * js
