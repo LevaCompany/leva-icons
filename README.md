@@ -1,7 +1,13 @@
 # leva-icons
 The icons pack create for add all worldwide icons: [icons.levabrands.dev/about](https://levabrands.dev/icons/about/)
-## Added in Leva Icons 4.0
+## Added in Leva Icons 5.0 Pre-Beta
+Added new languages
 ## On ZIP file
+* ts
+* react
+* vue
+* ember
+* svelte
 * svg
 * js
 * css
@@ -11,7 +17,7 @@ The icons pack create for add all worldwide icons: [icons.levabrands.dev/about](
 * readme_en.txt
 * readme_uk.txt
 * readme_zh.txt
-* readme_ge.txt
+* readme_de.txt
 * readme_be.txt
 * feedback.txt
 * support.txt
@@ -26,4 +32,4 @@ The icons pack create for add all worldwide icons: [icons.levabrands.dev/about](
 ![build](https://github.com/buttons/github-buttons/workflows/build/badge.svg)
 [![npm](https://img.shields.io/npm/v/github-buttons)](https://www.npmjs.com/leva-icons)
 ## Notes
-_No notes😭_
+New Leva Icons 5.0 in beta-test
