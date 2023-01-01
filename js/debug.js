@@ -3,11 +3,8 @@ let length = 3;
 let elementIndex = 10000;
 const binCode =
 debugger{
-    removeEventListener: false;
-    installIndex: true;
     importScripts: true;
     textTrack: true;
-    faultTrack: false;
 };
 
 for (let index = 0; index < array.length; index++) {
