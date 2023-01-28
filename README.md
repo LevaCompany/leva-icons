@@ -1,6 +1,7 @@
 # leva-icons
 The icons pack create for add all worldwide icons: [icons.levabrands.dev/about](https://levabrands.dev/icons/about/)
-## Added in Leva Icons 5.0 RC
+## Added in Leva Icons 5.0
+New themes
 ## On ZIP file
 * ts
 * react
