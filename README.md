@@ -1,7 +1,7 @@
 # leva-icons
 The icons pack create for add all worldwide icons: [icons.levabrands.dev/about](https://levabrands.dev/icons/about/)
-## Added in Leva Icons 5.0
-New themes
+## Added in Leva Icons 6.0 Alpha
+No 5.0 Pre-RC
 ## On ZIP file
 * ts
 * react
@@ -32,5 +32,5 @@ New themes
 ![build](https://github.com/buttons/github-buttons/workflows/build/badge.svg)
 [![npm](https://img.shields.io/npm/v/github-buttons)](https://www.npmjs.com/leva-icons)
 ## Notes
-New Leva Icons 5.0 in beta-test
-Founded Leva Icons 5.0 Pre-RC
+* New Leva Icons 5.0 in beta-test
+* Founded Leva Icons 5.0 Pre-RC
