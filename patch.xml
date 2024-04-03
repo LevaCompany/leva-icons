@@ -1,6 +1,6 @@
 <?xml version="1.1" encoding="UTF-8" ?>
-<count>10</count>
-<inValidCount>-10</inValidCount>
+<count>100</count>
+<inValidCount>0</inValidCount>
 <ValidCount>10</inValidCount>
 <type>normal</type>
 <patch>enable</patch>
