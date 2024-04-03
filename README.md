@@ -1,6 +1,6 @@
 # leva-icons
 The icons pack create for add all worldwide icons: [icons.levabrands.dev/about](https://levabrands.dev/icons/about/)
-## Added in Leva Icons 7.1.1
+## Added in Leva Icons 8.0
 * _Unknown_
 ## On ZIP file
 * ts
@@ -20,7 +20,6 @@ The icons pack create for add all worldwide icons: [icons.levabrands.dev/about](
 * readme_de.txt
 * readme_be.txt
 * feedback.txt
-* support.txt
 ## Tests
 * Internet Explorer: 5-11
 * Chrome: All versions
@@ -31,7 +30,3 @@ The icons pack create for add all worldwide icons: [icons.levabrands.dev/about](
 ## Socials
 ![build](https://github.com/buttons/github-buttons/workflows/build/badge.svg)
 [![npm](https://img.shields.io/npm/v/github-buttons)](https://www.npmjs.com/leva-icons)
-## Notes
-* New Leva Icons 5.0 in beta-test
-* Founded Leva Icons 5.0 Pre-RC
-* New Leva Icons 6.0 in beta-test
