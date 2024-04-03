@@ -1,5 +1,5 @@
 # leva-icons
-The icons pack create for add all worldwide icons: [icons.levabrands.dev/about](https://levabrands.dev/icons/about/)
+The icons pack created for add all worldwide icons: [icons.levabrands.dev/about](https://levabrands.dev/icons/about/)
 ## Added in Leva Icons 8.0
 * _Unknown_
 ## On ZIP file
