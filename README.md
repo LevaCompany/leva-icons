@@ -1,8 +1,8 @@
 # leva-icons
 The icons pack created for add all worldwide icons: [icons.levabrands.dev/about](https://levabrands.dev/icons/about/)
-## Added in Leva Icons 8.0
-* _Unknown_
-## On ZIP file
+## Added in Leva Icons 8.0 Alpha
+_Unknown_
+## In ZIP file
 * ts
 * react
 * vue
@@ -21,12 +21,11 @@ The icons pack created for add all worldwide icons: [icons.levabrands.dev/about]
 * readme_be.txt
 * feedback.txt
 ## Tests
-* Internet Explorer: 5-11
-* Chrome: All versions
-* Firefox: All versions
-* Opera: All versions
-* Safari: All versions
-* Other browsers: Good
+* Internet Explorer: ? - Latest
+* Chrome: ? - Latest
+* Firefox: ? - Latest
+* Opera: ? - Latest
+* Safari: ? - Latest
 ## Socials
 ![build](https://github.com/buttons/github-buttons/workflows/build/badge.svg)
 [![npm](https://img.shields.io/npm/v/github-buttons)](https://www.npmjs.com/leva-icons)
