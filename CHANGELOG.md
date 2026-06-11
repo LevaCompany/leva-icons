@@ -44,6 +44,7 @@
 * Added new languages
 * Added TypeScript, React, Vue, Ember and Svelte support
 * Renamed readme_ge.txt to readme_de.txt in ZIP packs
+* Added themes
 ## Leva Icons 4.0 Debug
 * Added CRILO
 ## Leva Icons 4.0
