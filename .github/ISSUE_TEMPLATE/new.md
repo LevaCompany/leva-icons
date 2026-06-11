@@ -7,5 +7,5 @@ assignees: LevaCompany
 
 ---
 
-![tempale-image](url)
+![template-image](url)
 **NEW!**
