@@ -1,4 +1,6 @@
 # Changelog
+## Leva Icons 8.0
+* Unknown
 ## Leva Icons 8.0 Beta
 * Changelog is completed
 * Speak and Leva Browser protocols readded
