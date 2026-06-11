@@ -56,6 +56,12 @@
 ## Leva Icons 4.0
 * Added socials and notes
 * Added debug
+## Leva Icons 3.8
+* Unknown
+## Leva Icons 3.5
+* Unknown
+## Leva Icons 3.3
+* Unknown
 ## Leva Icons 3.0
 * Added MegaSuperUltra style
 * Added feedback.txt and support.txt files in ZIP packs
