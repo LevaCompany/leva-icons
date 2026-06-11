@@ -13,13 +13,6 @@ _Unknown_
 * css
 * sass
 * less
-* readme_ru.txt
-* readme_en.txt
-* readme_uk.txt
-* readme_zh.txt
-* readme_de.txt
-* readme_be.txt
-* feedback.txt
 ## Tests
 * Internet Explorer: ? - Latest
 * Chrome: ? - Latest
