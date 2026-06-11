@@ -1,3 +1,3 @@
 ; Add-on
-minimalVersion=8-alpha
-func=addon
+minimalVersion=8-pre-beta
+functional=addon
