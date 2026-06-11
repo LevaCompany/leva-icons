@@ -1,4 +1,6 @@
 # Changelog
+## Leva Icons 9.0
+* Removed tita.kili file
 ## Leva Icons 8.0
 * Unknown
 ## Leva Icons 8.0 Beta
