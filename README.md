@@ -1,18 +1,7 @@
 # leva-icons
-The icons pack created for add all worldwide icons: [icons.levabrands.dev/about](https://levabrands.dev/icons/about/)
-## Added in Leva Icons 9.0
-* Removed tita.kili file
-## In ZIP pack
-* ts
-* react
-* vue
-* ember
-* svelte
-* svg
-* js
-* css
-* sass
-* less
+Icons pack with all worldwide icons: [icons.levabrands.dev/about](https://levabrands.dev/icons/about/)
+## Added in Leva Icons 10
+* Unknown
 ## Tests
 * Internet Explorer: ? - Latest
 * Chrome: ? - Latest
