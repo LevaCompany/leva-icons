@@ -1,6 +1,8 @@
 # Changelog
 ## Leva Icons 8.0 Beta
-* Changelog is complete
+* Changelog is completed
+* Speak and Leva Browser protocols readded
+* Not supported icons in LESS fixed
 ## Leva Icons 8.0 Pre-Beta
 * Added incomplete changelog
 * Removed bugchecker
