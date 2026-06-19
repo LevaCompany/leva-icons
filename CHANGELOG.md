@@ -1,6 +1,8 @@
 # Changelog
-## Leva Icons 10
-* Unknown
+## Leva Icons 10 Build 2
+* Updated changelog
+## Leva Icons 10 Build 1
+* Readded old debugger
 ## Leva Icons 9.0
 * Removed tita.kili file
 ## Leva Icons 8.0
