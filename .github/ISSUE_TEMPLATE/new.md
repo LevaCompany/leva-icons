@@ -2,7 +2,7 @@
 name: New
 about: Describe this issue template's purpose here.
 title: 'NEW!!!!: '
-labels: Betas, Final Beta Versions, Milestones, Release Candidates
+labels: Alphas, Betas, Final Beta Versions, Milestones, Release Candidates
 assignees: LevaCompany
 
 ---
