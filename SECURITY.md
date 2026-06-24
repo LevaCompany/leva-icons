@@ -3,7 +3,7 @@
 | Version | Supported          |
 | ------- | ------------------ |
 | 10 Build 2   | :white_check_mark: |
-| 10 Build 1   | :x: |
+| 10 Build 1   | :warning: |
 | 9.0   | :white_check_mark: |
 | 8.0   | :white_check_mark: |
 | < 8.0 Beta   | :x: |
