@@ -2,7 +2,8 @@
 ## Supported Versions
 | Version | Supported          |
 | ------- | ------------------ |
-| 10 Build 2   | :white_check_mark: |
+| 10 Build 3   | :white_check_mark: |
+| 10 Build 2   | :warning: |
 | 10 Build 1   | :x: |
 | 9.0   | :white_check_mark: |
 | 8.0   | :white_check_mark: |
