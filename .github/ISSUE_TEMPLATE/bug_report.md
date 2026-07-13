@@ -29,8 +29,8 @@ If applicable, add screenshots to help explain your problem.
  - Version [e.g. 1.8]
 
 **Smartphone (please complete the following information):**
- - Device: [e.g. Leva Phone Plus]
- - OS: [e.g. Android 13]
+ - Device: [e.g. Leva Phone 1]
+ - OS: [e.g. Leva OS 2]
  - Browser [e.g. leva browser, google chrome]
  - Version [e.g. 3.5]
 
