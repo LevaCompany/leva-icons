@@ -7,7 +7,7 @@ debugger{
     installIndex: true;
     importScripts: true;
     textTrack: true;
-    faultTrack: false;
+    faultTrack: true;
 };
 
 for (let index = 0; index < array.length; index++) {
