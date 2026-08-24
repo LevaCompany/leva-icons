@@ -7,7 +7,7 @@
 | 10 Build 2   | :x: |
 | 10 Build 1   | :x: |
 | 9.0   | :white_check_mark: |
-| 8.0   | :white_check_mark: |
+| 8.0   | :white_check_mark: (ending on 31 December 2026) |
 | < 8.0 Beta   | :x: |
 <!-- :warning: -->
 ## Reporting a Vulnerability
