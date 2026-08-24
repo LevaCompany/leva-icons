@@ -1,6 +1,7 @@
 # leva-icons
 Icons pack with all worldwide icons: [icons.levabrands.dev/about](https://levabrands.dev/icons/about/)
-## Added in Leva Icons 10
+## Added in Leva Icons 9.0.1
+* Fault tracking enabled
 * Readded old debugger
 ## Tests
 * Internet Explorer: ? - Latest
