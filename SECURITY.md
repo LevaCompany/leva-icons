@@ -2,11 +2,9 @@
 ## Supported Versions
 | Version | Supported          |
 | ------- | ------------------ |
-| 10 Build 4   | :white_check_mark: |
-| 10 Build 3   | :warning: |
-| 10 Build 2   | :x: |
-| 10 Build 1   | :x: |
-| 9.0   | :white_check_mark: |
+| 10   | :x: |
+| 9.0.1   | :white_check_mark: |
+| 9.0   | :warning: |
 | 8.0   | :white_check_mark: (ending on 31 December 2026) |
 | < 8.0 Beta   | :x: |
 <!-- :warning: -->
